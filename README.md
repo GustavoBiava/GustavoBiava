@@ -15,7 +15,7 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=GustavoBiava&show_icons=true&theme=radical" height="175" /> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBiava&layout=compact&theme=radical" height="150"  /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBiava&layout=compact&theme=radical" height="165"  /> 
 </div>
 
 <div>
