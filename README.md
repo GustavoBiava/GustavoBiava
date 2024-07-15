@@ -5,7 +5,7 @@
 
 <div>
 
-- **Atualmente estou estudando principalmente JAVA** ☕
+- **Atualmente estou estudando principalmente JavaScript** ☕
 
 - **Buscando ampliar meu conhecimento e repertório** 📚
 
