@@ -5,7 +5,9 @@
 
 <div>
 
-- **Atualmente estou estudando principalmente JavaScript** ☕
+- **Comecei meus estudos na programação com a linguagem Java** ☕
+
+- **Atualmente estou estudando principalmente JavaScript** 💻
 
 - **Buscando ampliar meu conhecimento e repertório** 📚
 
