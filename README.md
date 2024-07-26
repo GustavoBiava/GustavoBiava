@@ -4,7 +4,6 @@
 <h3 align="center">Estudante de programação em busca de evoluir 🚀</h3>
 
 <div>
-
 - **Comecei meus estudos na programação com a linguagem Java** ☕
 
 - **Atualmente estou estudando principalmente JavaScript** 💻
@@ -12,7 +11,6 @@
 - **Buscando ampliar meu conhecimento e repertório** 📚
 
 - **Apaixonado por tecnologia** 👨‍💻 
-
 </div>
 
 <div align="center">
