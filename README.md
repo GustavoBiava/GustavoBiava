@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 logo">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css logo"> -->
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,html,css)](https://skillicons.dev)
 
 <div>
     <h3 align="left">Tecnologias com mais familiaridade:</h3>
