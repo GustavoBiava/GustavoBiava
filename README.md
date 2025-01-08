@@ -23,7 +23,7 @@
     <h3 align="left">Conecte-se comigo!</h3>
 </div>
 
-<a href="https://www.linkedin.com/in/GustavoDeRezendeBiava/" target="_blank" rel="noopener noreferrer"> [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) </a>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/GustavoDeRezendeBiava/)
 
 <div>
     <h3 align="left">Tecnologias que estou estudando no momento:</h3>
