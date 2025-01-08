@@ -21,10 +21,9 @@
 
 <div>
     <h3 align="left">Conecte-se comigo!</h3>
-        <a href="https://www.linkedin.com/in/GustavoDeRezendeBiava/" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo">
-        </a>
 </div>
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 
 <div>
