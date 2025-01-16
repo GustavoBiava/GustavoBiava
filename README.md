@@ -7,7 +7,7 @@
     
 - **Comecei meus estudos na programação com a linguagem Java** ☕
 
-- **Atualmente estou estudando principalmente JavaScript** 💻
+- **Atualmente estou estudando principalmente JavaScript e TypeScript** 💻
 
 - **Buscando ampliar meu conhecimento e repertório** 📚
 
