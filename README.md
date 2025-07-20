@@ -1,7 +1,7 @@
 
 <h1 align="center">Olá! Eu sou o Gustavo Biava! 👋</h1>
 
-<h3 align="center">Estudante de programação em busca de evoluir 🚀</h3>
+<h3 align="center">Assistente de Soluções em busca de evoluir 🚀</h3>
 
 <div>
     
