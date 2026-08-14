@@ -9,7 +9,7 @@
 
 - **Desenvolvimento Web Fullstack** 💻
 
-- **Cursando Engenharia de Software** 📚
+- **Cursando Engenharia de Software e Estudando Sobre GenAI** 📚
 
 - **Apaixonado por Arquitetura de Software e System Design** 👨‍💻 
 </div>
