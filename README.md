@@ -17,8 +17,10 @@
 </br>
 
 <div align="center">
-    <img src="https://github-stats-extended.vercel.app/api?username=GustavoBiava&include_all_commits=true&theme=dark" height="175" /> 
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=GustavoBiava&langs_count=4&theme=dark" height="175"  /> 
+    <img src="https://github-readme-stats.profile-readme-generator.com/api?username=GustavoBiava&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" /> 
+    </br>    
+    </br>
+    <img src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=GustavoBiava&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" /> 
 </div>
 
 </br>
@@ -40,3 +42,7 @@
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,html,css,git,js,ts,nodejs,python,react)](https://skillicons.dev)
+
+</br>    
+</br>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/refs/heads/main/public/assets/breakout.svg" /> 
